@@ -1,7 +1,1 @@
 This is shahd account.
-<<<<<<< HEAD
-habeb
-=======
-
-habeeb
->>>>>>> feature/git-practice
