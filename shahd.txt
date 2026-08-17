@@ -1,3 +1,12 @@
 This is shahd account.
+<<<<<<< HEAD
 
 this is habeeb not shahd
+=======
+<<<<<<< HEAD
+habeb
+=======
+
+habeeb
+>>>>>>> feature/git-practice
+>>>>>>> refs/remotes/origin/master

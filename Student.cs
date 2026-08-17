@@ -1,3 +1,4 @@
+using System;
 public class Student
 {
     public string Name { get; set; }
@@ -16,5 +17,11 @@ public class Student
         Console.WriteLine($"Name: {Name}");
         Console.WriteLine($"Age: {Age}");
         Console.WriteLine($"Grade: {Grade}");
+
+    }
+    public void Study()
+    {
+        Console.WriteLine($"{Name} is studying.");
+
     }
 }
